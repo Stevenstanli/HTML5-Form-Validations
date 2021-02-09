@@ -1,0 +1,22 @@
+#container{
+    padding: 30px;
+}
+#form{
+    padding: 15px;
+}
+#space-button{
+    background-color: lavender; 
+    padding: 10px;
+}
+#button{
+    float: right;
+}
+#alert{
+    padding: 10px;
+}
+#textarea{
+    float: right;
+}
+#dolar{
+    padding: 0%;
+}
